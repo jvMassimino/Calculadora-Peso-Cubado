@@ -1,3 +1,5 @@
+Nenhum repositório, ferramenta ou proprietário do repositório é afiliado, patrocinado ou autorizado pelo **Bling** ou suas afiliadas.
+
 Este é um código em C# que implementa uma aplicação de cálculo de peso. A aplicação possui uma interface gráfica de usuário (GUI) construída com o MetroFramework.Forms.
 
 A classe principal do código é a Form1, que herda da classe MetroForm e contém dois métodos de evento: btnCalcular_Click e btnSair_Click.
